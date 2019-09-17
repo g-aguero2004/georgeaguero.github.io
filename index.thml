@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+</head>
+<body>
+
+<h1>Coral Gables Highschool</h1>
+<p>He do be looking kinda fresh doe.</p>
+  <h2> The sword is mightier then the pen</h2>  
+</body>
+</html>
+  <html>
+    <body>
+      <table border="1px solid black">
+        <tr>
+          <th style="font-color: blue">Word
+          </th>
+          <body>
+          <th style="background-color:cyan">
+          </body>
+        </tr>
+        <tr style="color:purple;">
+          <th>Definition  </th>
+          <th style="background-color:cyan">
+          </tr>
+          <tr style="color:salmon;">
+        <td>Packets </td>
+       <td>Where information travels over the internet. Large amounts of data can be sent in many packets.<td>
+        </tr>
+      <tr style="color:lime;">
+        <td>Router</td>
+      <td>Traffic managers for packets. Choses the cheapest path for the packets.</td>
+      </tr>
+         <tr style="color:magenta;">
+    <td>Redundancy</td>
+    <td>More routers=More redundancy. </td>
+    </tr>
+       <tr style="color:purple;">
+  <td>Protocol</td>
+  <td>Agreed upon standards for how things are sent over the internet.</td>
