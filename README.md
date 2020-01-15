@@ -1,5 +1,10 @@
 # georgeaguero.github.io
-chasin a bag
-<a href="index.html"> home </a>
-'
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="myscript.js">
+      </head>
+    <body>
+    </body>
+    </html>
 
